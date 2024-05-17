@@ -16,4 +16,6 @@ Hint:
 ## POC
 Dari deskripsi bisa kita lihat perintahnya. Kita diharuskan untuk masuk ssh dengan user `ctf-player`. Kita gunakan terminal dan perintah `ssh ctf-player@titan.picoctf.net -p 61453` untuk masuk. Masukkan password yang telah diberikan dan ketik yes saat muncul pesan fingerprint. Dan flag sudah kita dapatkan.
 
-Flag: `picoCTF{s3cur3_c0nn3ct10n_xxxxxxxx}`
+![](https://github.com/ADustyCode/CTF-WriteUp/blob/main/picoCTF2024/General%20Skills/image/super_ssh.png?raw=true)
+
+Flag: `picoCTF{s3cur3_c0nn3ct10n_45a48857}`
